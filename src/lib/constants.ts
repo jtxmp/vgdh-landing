@@ -11,38 +11,32 @@ export const VERTICALS = [
   {
     name: "Crypto Education",
     description: "Learn blockchain fundamentals through interactive apps and courses.",
-    appCount: "[X]",
-    icon: "📚",
+    icon: "/images/icon-crypto-education.png",
   },
   {
     name: "Onboarding",
     description: "Smooth entry points for new users into the crypto ecosystem.",
-    appCount: "[X]",
-    icon: "🚀",
+    icon: "/images/icon-onboarding.png",
   },
   {
     name: "Security Awareness",
     description: "Tools and training to keep users safe from scams and exploits.",
-    appCount: "[X]",
-    icon: "🛡️",
+    icon: "/images/icon-security-awareness.png",
   },
   {
     name: "Community Building",
     description: "Apps that bring crypto communities together and grow engagement.",
-    appCount: "[X]",
-    icon: "🤝",
+    icon: "/images/icon-community-building.png",
   },
   {
     name: "Games",
     description: "Fun, on-chain games that reward players and drive adoption.",
-    appCount: "[X]",
-    icon: "🎮",
+    icon: "/images/icon-games.png",
   },
   {
     name: "DeFi",
     description: "Decentralized finance tools built for real users.",
-    appCount: "[X]",
-    icon: "💰",
+    icon: "/images/icon-defi.png",
   },
 ] as const;
 
