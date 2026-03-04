@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+@theme {
+  /* Verse color tokens */
+  --color-verse-1000: #0A0A2C;
+  --color-verse-800: #10183C;
+  --color-verse-600: #202B58;
+  --color-verse-400: #434C74;
+  --color-verse-200: #8B92AA;
+  --color-verse-0: #FFFFFF;
+  --color-verse-blue: #0085FF;
+  --color-verse-pink: #DB00FF;
+}
+
+body {
+  background-color: var(--color-verse-1000);
+  color: var(--color-verse-0);
+}
