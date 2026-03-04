@@ -25,8 +25,8 @@ export default function Hero() {
         </div>
         <div className="w-full max-w-xs flex-shrink-0 md:max-w-sm">
           <Image
-            src="/images/hero_3_char_v2_x640.png"
-            alt="Verse Global Dev House characters"
+            src="/images/hero_community.png"
+            alt="Verse Global Dev House community"
             width={640}
             height={640}
             className="h-auto w-full"

@@ -5,7 +5,7 @@ export default function Footer() {
     <footer className="border-t border-verse-400/30 px-6 py-10">
       <div className="mx-auto flex max-w-[1080px] flex-col items-center gap-4 text-center">
         <Image
-          src="/images/VGDH_logo_x640.png"
+          src="/images/vgdh_logo_new.png"
           alt="VGDH logo"
           width={640}
           height={160}
