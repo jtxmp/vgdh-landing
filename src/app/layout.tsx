@@ -24,13 +24,11 @@ const ibmPlexSans = IBM_Plex_Sans({
 });
 
 export const metadata: Metadata = {
-  title: "Verse Global Dev House — 70+ Apps Shipped by the Community",
-  description:
-    "Verse Global Dev House builds crypto apps across education, security, games, DeFi, and more. Pick a role. Join a team. Ship something real.",
+  title: "Verse Games Dev House | Home",
+  description: "Pick a role. Join a team. Ship something real. 100% Revenue to Contributors.",
   openGraph: {
-    title: "Verse Global Dev House — 70+ Apps Shipped by the Community",
-    description:
-      "Verse Global Dev House builds crypto apps across education, security, games, DeFi, and more. Pick a role. Join a team. Ship something real.",
+    title: "Verse Games Dev House | Home",
+    description: "Pick a role. Join a team. Ship something real. 100% Revenue to Contributors.",
     type: "website",
     url: "https://vgdh.io",
   },
