@@ -15,10 +15,10 @@ export default function VerticalsGrid() {
           {VERTICALS.map((v) => (
             <div
               key={v.name}
-              className="rounded-xl border border-verse-400/20 bg-verse-800 p-6 transition-colors hover:border-verse-400/40"
+              className="flex flex-col items-center rounded-xl border border-verse-400/20 bg-verse-800 p-6 text-center transition-colors hover:border-verse-400/40"
             >
-              <Image src={v.icon} alt={v.name} width={48} height={48} className="h-12 w-12 rounded-lg" />
-              <h3 className="mt-3 font-[family-name:var(--font-barlow)] text-lg font-700">
+              <Image src={v.icon} alt={v.name} width={96} height={96} className="h-24 w-24 rounded-xl" />
+              <h3 className="mt-4 font-[family-name:var(--font-barlow)] text-lg font-700">
                 {v.name}
               </h3>
               <p className="mt-2 text-sm leading-relaxed text-verse-200">

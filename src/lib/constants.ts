@@ -3,7 +3,7 @@ export const TELEGRAM_URL = "https://t.me/GetVerse/355494";
 export const STATS = [
   { value: "70+", label: "Apps Shipped" },
   { value: "6", label: "Verticals" },
-  { value: "[X]", label: "Community Members" },
+  { value: "21k+", label: "Community Members" },
   { value: "100%", label: "Revenue to Contributors" },
 ] as const;
 

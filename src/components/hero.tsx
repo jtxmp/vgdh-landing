@@ -3,7 +3,7 @@ import { TELEGRAM_URL } from "@/lib/constants";
 
 export default function Hero() {
   return (
-    <section className="px-6 pt-20 pb-16 md:pt-28 md:pb-20">
+    <section className="px-6 pt-28 pb-16 md:pt-36 md:pb-20">
       <div className="mx-auto flex max-w-[1080px] flex-col items-center gap-12 md:flex-row md:items-start md:gap-16">
         <div className="flex-1 text-center md:text-left">
           <h1 className="font-[family-name:var(--font-barlow)] text-4xl font-800 leading-tight tracking-tight md:text-5xl lg:text-6xl">
