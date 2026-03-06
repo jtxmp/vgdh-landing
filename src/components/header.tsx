@@ -12,11 +12,11 @@ export default function Header() {
           className="flex items-center gap-3"
         >
           <Image
-            src="/images/vgdh_logo_new.png"
-            alt="VGDH"
-            width={120}
-            height={40}
-            className="h-[40px] w-auto"
+            src="/images/vg_logo.png"
+            alt="VG"
+            width={36}
+            height={36}
+            className="h-9 w-9 rounded-md"
           />
           <span className="hidden font-[family-name:var(--font-barlow)] text-sm font-700 tracking-wide text-verse-200 sm:inline">
             Verse Global Dev House
